@@ -1,0 +1,10 @@
+! Remove Gemini from Gmail and Google Docs
+mail.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
+drive.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
+docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
+
+! Remove "AI Summary" from YouTube
+youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
+
+! Remove "AI Description" from eBay listings
+www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
