@@ -1,3 +1,5 @@
+# Title: NTICompass' AI Stuff Filter List
+
 ! Remove Gemini from Gmail and Google Docs
 mail.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 drive.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
