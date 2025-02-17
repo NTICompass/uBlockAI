@@ -7,6 +7,8 @@ docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try
 
 ! Remove "AI Summary" from YouTube
 youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
+! Remove AI "Inspiration" from YouTube studio
+studio.youtube.com##tp-yt-paper-tab#inspiration-tab
 
 ! Remove "AI Description" from eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
