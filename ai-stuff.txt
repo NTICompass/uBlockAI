@@ -1,14 +1,17 @@
 # Title: NTICompass' AI Stuff Filter List
 
-! Remove Gemini from Gmail and Google Docs
+! Gemini - Gmail and Google Docs
 mail.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 drive.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 
-! Remove "AI Summary" from YouTube
+! "AI Summary" - YouTube
 youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
-! Remove AI "Inspiration" from YouTube studio
+! AI "Inspiration" - YouTube studio
 studio.youtube.com##tp-yt-paper-tab#inspiration-tab
 
-! Remove "AI Description" from eBay listings
+! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
+
+! "OverflowAI" - StackOverflow
+stackoverflow.com##header ol > li:has(a[href^="https://stackoverflow.co/teams/ai"])
