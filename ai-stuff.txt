@@ -22,3 +22,6 @@ duck.ai
 duckduckgo.com##a[class^="header_aiChatButton"][data-testid="aichat-button"][href="https://duck.ai"]
 ! search results
 duckduckgo.com##div#react-duckbar[data-testid="duckbar"] li:has(a[href$="&ia=chat"])
+
+! GitHub Copilot
+github.com##div > button:has(svg.octicon-copilot)
