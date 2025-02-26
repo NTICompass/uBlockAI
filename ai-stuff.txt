@@ -15,3 +15,7 @@ www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
 
 ! "OverflowAI" - StackOverflow
 stackoverflow.com##header ol > li:has(a[href^="https://stackoverflow.co/teams/ai"])
+
+! DuckDuckGo's "chat"
+duckduckgo.com##a[class^="header_aiChatButton"][data-testid="aichat-button"][href="https://duck.ai"]
+duck.ai
