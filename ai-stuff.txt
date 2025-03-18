@@ -9,6 +9,8 @@ docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try
 youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
 ! AI "Inspiration" - YouTube studio
 studio.youtube.com##tp-yt-paper-tab#inspiration-tab
+! "Smart Replies" for comments in YouTube studio
+studio.youtube.com##div#comment-smart-replies
 
 ! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
