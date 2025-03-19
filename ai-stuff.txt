@@ -32,4 +32,4 @@ github.com##div > button:has(svg.octicon-copilot)
 www.yahoo.com##div[class*="aisummary_"]:has(button[aria-label="Expand Key Takeaways"])
 
 ! "Ask AI" on the Docker Docs
-docs.docker.com##button[@click]:has(img[alt="AI Stars"])
+docs.docker.com##header button:has(img[alt="AI Stars"])
