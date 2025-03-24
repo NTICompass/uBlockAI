@@ -34,3 +34,7 @@ www.yahoo.com##div[class*="aisummary_"]:has(button[aria-label="Expand Key Takeaw
 
 ! "Ask AI" on the Docker Docs
 docs.docker.com##header button:has(img[alt="AI Stars"])
+
+! Docker's docs use "kapa.ai", let's block its JS
+metrics.kapa.ai
+widget.kapa.ai
