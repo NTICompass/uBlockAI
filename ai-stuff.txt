@@ -27,6 +27,7 @@ duckduckgo.com##div#react-duckbar[data-testid="duckbar"] li:has(a[href$="&ia=cha
 
 ! GitHub Copilot
 github.com##div > button:has(svg.octicon-copilot)
+github.com##div.DialogOverflowWrapper ul > li:has(a[href="/settings/copilot"])
 
 ! Yahoo News
 www.yahoo.com##div[class*="aisummary_"]:has(button[aria-label="Expand Key Takeaways"])
