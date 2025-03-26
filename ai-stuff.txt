@@ -5,6 +5,9 @@ mail.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try
 drive.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 
+! Google Developer Docs' "Key Takeaways"
+developers.google.com##div.devsite-concierge-panel div.devsite-concierge-panel-key-takeaways-section
+
 ! "AI Summary" - YouTube
 youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
 ! AI "Inspiration" - YouTube studio
