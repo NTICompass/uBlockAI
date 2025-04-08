@@ -5,6 +5,9 @@ mail.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try
 drive.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try Gemini"])
 
+! Gemini - Google Cloud Console
+console.cloud.google.com##div.cfc-platform-bar-container span#pcc-atlas-chat-container
+
 ! Google Developer Docs' "Key Takeaways" as well as "Ask about this page"
 developers.google.com##div.devsite-concierge-panel div.devsite-concierge-panel-key-takeaways-section
 developers.google.com##div.devsite-concierge-container button.devsite-concierge-ai-panel--menu-item
