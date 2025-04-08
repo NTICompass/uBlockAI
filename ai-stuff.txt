@@ -8,7 +8,7 @@ docs.google.com##div[jscontroller][jsaction]:has(> span > button[aria-label="Try
 ! Gemini - Google Cloud Console
 console.cloud.google.com##div.cfc-platform-bar-container span#pcc-atlas-chat-container
 ! Remove Gemini from Cloud Console search box
-console.cloud.google.com##pcc-results-list:has(> a#gemini-suggestion)
+console.cloud.google.com##pcc-results-list:has(a#gemini-suggestion)
 console.cloud.google.com##div.pcc-search-cluster-title:has(cfc-icon[icon="spark"])
 
 ! Google Developer Docs' "Key Takeaways" as well as "Ask about this page"
