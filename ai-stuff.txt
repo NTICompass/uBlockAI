@@ -48,3 +48,6 @@ docs.docker.com##header button.open-kapa-widget:has(img[alt="AI Stars"])
 ! Docker's docs use "kapa.ai", let's block its JS
 metrics.kapa.ai
 widget.kapa.ai
+
+! Newegg "AI Assistant"
+www.newegg.com##footer > .floating-right-tools > .floating-robot
