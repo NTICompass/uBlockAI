@@ -51,3 +51,6 @@ widget.kapa.ai
 
 ! Newegg "AI Assistant"
 www.newegg.com##footer > .floating-right-tools > .floating-robot
+
+! Upwork's Uma
+www.upwork.com##nav#nav-right > ul.nav-right > li.nav-uma
