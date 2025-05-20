@@ -51,6 +51,7 @@ widget.kapa.ai
 
 ! Newegg "AI Assistant"
 www.newegg.com##footer > .floating-right-tools > .floating-robot
+www.newegg.com##div.bottom-button-area.is-assistant > div.assistant_box:has(> span.floating-robot-icon)
 
 ! Upwork's Uma
 www.upwork.com##nav#nav-right > ul.nav-right > li.nav-uma
