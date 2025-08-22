@@ -21,8 +21,10 @@ youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-vi
 studio.youtube.com##tp-yt-paper-tab#inspiration-tab
 ! "Smart Replies" for comments in YouTube studio
 studio.youtube.com##div#comment-smart-replies
-! "Ask" button on videos
+! "Ask" button on videos - toolbar
 youtube.com##ytd-menu-renderer.ytd-watch-metadata .ytd-menu-renderer:has(button[aria-label="Ask"])
+! "Ask" button on videos - menu
+youtube.com##tp-yt-paper-listbox ytd-menu-service-item-renderer:has(yt-icon:has(svg path[d="M480-80q0-83-31.5-156T363-363q-54-54-127-85.5T80-480q83 0 156-31.5T363-597q54-54 85.5-127T480-880q0 83 31.5 156T597-597q54 54 127 85.5T880-480q-83 0-156 31.5T597-363q-54 54-85.5 127T480-80Z"]))
 
 ! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
