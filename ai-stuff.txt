@@ -21,6 +21,8 @@ youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-vi
 studio.youtube.com##tp-yt-paper-tab#inspiration-tab
 ! "Smart Replies" for comments in YouTube studio
 studio.youtube.com##div#comment-smart-replies
+! "Ask" button on videos
+youtube.com##ytd-menu-renderer.ytd-watch-metadata .ytd-menu-renderer:has(button[aria-label="Ask"])
 
 ! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
