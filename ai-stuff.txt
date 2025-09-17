@@ -65,5 +65,6 @@ www.upwork.com##nav#nav-right > ul.nav-right > li.nav-uma
 ! Infomaniak (kDrive) Euria
 ksuite.infomaniak.com##div#root nav[class*="_sidebar_"] div[class*="_menuItemWrapper_"]:has(a[href$="/euria"])
 
-! VueUse
+! VueUse / AIDD
 vueuse.org##a#bb-banner.bb-campaign-aidd-launch
+aidd.io
