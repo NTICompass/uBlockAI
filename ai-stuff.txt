@@ -32,8 +32,11 @@ www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
 ! "OverflowAI" - StackOverflow
 stackoverflow.ai
 stackoverflow.com##header ol > li:has(a[href^="https://stackoverflow.co/teams/ai"])
+! All StackExchange sites...
 stackoverflow.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
 serverfault.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
+superuser.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
+askubuntu.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
 
 ! DuckDuckGo's "chat"
 duck.ai
