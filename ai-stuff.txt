@@ -37,6 +37,7 @@ stackoverflow.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstac
 serverfault.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
 superuser.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
 askubuntu.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
+stackexchange.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
 
 ! DuckDuckGo's "chat"
 duck.ai
