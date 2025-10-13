@@ -15,6 +15,9 @@ console.cloud.google.com##div.pcc-search-cluster-title:has(cfc-icon[icon="spark"
 developers.google.com##div.devsite-concierge-panel div.devsite-concierge-panel-key-takeaways-section
 developers.google.com##div.devsite-concierge-container button.devsite-concierge-ai-panel--menu-item
 
+! AI Answers on Google Ads
+support.google.com##div#ai-answers-container
+
 ! "AI Summary" - YouTube
 youtube.com##div#expandable-metadata:has(ytd-expandable-metadata-renderer[has-video-summary])
 ! AI "Inspiration" - YouTube studio
