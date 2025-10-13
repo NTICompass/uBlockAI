@@ -78,3 +78,6 @@ ksuite.infomaniak.com##div#root nav[class*="_sidebar_"] div[class*="_menuItemWra
 ! VueUse / AIDD
 vueuse.org##a#bb-banner.bb-campaign-aidd-launch
 aidd.io
+
+! JetBrains YouTrack
+youtrack.jetbrains.com##div[data-test="ring-dropdown"]:has(span[aria-label="AI Assistant"])
