@@ -14,6 +14,7 @@ console.cloud.google.com##div.pcc-search-cluster-title:has(cfc-icon[icon="spark"
 ! Google Developer Docs' "Key Takeaways" as well as "Ask about this page"
 developers.google.com##div.devsite-concierge-panel div.devsite-concierge-panel-key-takeaways-section
 developers.google.com##div.devsite-concierge-container button.devsite-concierge-ai-panel--menu-item
+developers.google.com##devsite-key-takeaways-panel
 
 ! AI Answers on Google Ads
 support.google.com##div#ai-answers-container
