@@ -58,7 +58,7 @@ github.com##div.DialogOverflowWrapper ul > li:has(a[href="/settings/copilot"])
 www.yahoo.com##div[class*="aisummary_"]:has(button[aria-label="Expand Key Takeaways"])
 
 ! "Ask AI" on the Docker Docs
-docs.docker.com##header button.open-kapa-widget:has(img[alt="AI Stars"])
+docs.docker.com##header button.open-kapa-widget:has(svg)
 
 ! Docker's docs use "kapa.ai", let's block its JS
 metrics.kapa.ai
