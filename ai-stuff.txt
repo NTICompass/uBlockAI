@@ -82,3 +82,6 @@ aidd.io
 
 ! JetBrains YouTrack
 youtrack.jetbrains.com##div[data-test="ring-dropdown"]:has(span[aria-label="AI Assistant"])
+
+! Microsoft Learn
+learn.microsoft.com##div#article-header-page-actions button[data-test-id="ask-learn-assistant-flyout-entry"]
