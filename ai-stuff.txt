@@ -96,3 +96,4 @@ docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM)) + span[
 docs.stripe.com##article div:has(>button:has-text(Ask about this page))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM)) + span[role="separator"]
+docs.stripe.com##div.CodeBlock button[aria-label="Explain using AI"]
