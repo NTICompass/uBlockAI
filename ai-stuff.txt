@@ -86,5 +86,9 @@ youtrack.jetbrains.com##div[data-test="ring-dropdown"]:has(span[aria-label="AI A
 ! Microsoft Learn
 learn.microsoft.com##div#article-header-page-actions button[data-test-id="ask-learn-assistant-flyout-entry"]
 
-! Stripe
+! Stripe API docs
 docs.stripe.com##div.StripeAssistantContainer div.Header--full a[data-testid="StripeAssistant--Header-AskAI"]
+! Hide "ask ai" next to search on api docs, need better way
+docs.stripe.com##div.StripeAssistantContainer div.SidebarContainer div > button:nth-of-type(2)
+docs.stripe.com##section div:has(>button:has-text(Ask about this section))
+docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM))
