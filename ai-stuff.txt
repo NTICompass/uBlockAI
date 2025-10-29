@@ -85,3 +85,6 @@ youtrack.jetbrains.com##div[data-test="ring-dropdown"]:has(span[aria-label="AI A
 
 ! Microsoft Learn
 learn.microsoft.com##div#article-header-page-actions button[data-test-id="ask-learn-assistant-flyout-entry"]
+
+! Stripe
+docs.stripe.com##div.StripeAssistantContainer div.Header--full a[data-testid="StripeAssistant--Header-AskAI"]
