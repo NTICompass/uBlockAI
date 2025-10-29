@@ -93,6 +93,6 @@ docs.stripe.com##div.StripeAssistantContainer div.SidebarContainer div > button:
 docs.stripe.com##section div:has(>button:has-text(Ask about this section))
 docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM))
 docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM)) + span[role="separator"]
-docs.stripe.com##article div:has(>button:has-text(Ask about this section))
+docs.stripe.com##article div:has(>button:has-text(Ask about this page))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM)) + span[role="separator"]
