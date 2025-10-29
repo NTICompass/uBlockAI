@@ -93,6 +93,8 @@ docs.stripe.com##div.StripeAssistantContainer div.SidebarContainer div > button:
 docs.stripe.com##section div:has(>button:has-text(Ask about this section))
 docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM))
 docs.stripe.com##section button:has(>span > span:has-text(Copy for LLM)) + span[role="separator"]
+! Need better way to block "explain with AI" button on code examples in API docs
+docs.stripe.com##section div.Box-root a.tooltip-trigger-isolate:has(svg path[d="M11.472 2.624a.25.25 0 0 0 .152-.152l.64-1.807A.246.246 0 0 1 12.5.499c.098 0 .196.055.236.166l.64 1.807a.25.25 0 0 0 .152.152l1.807.64c.111.04.166.138.166.236a.246.246 0 0 1-.166.236l-1.807.64a.25.25 0 0 0-.152.152l-.64 1.807a.246.246 0 0 1-.236.166.246.246 0 0 1-.236-.166l-.64-1.807a.25.25 0 0 0-.152-.152l-1.807-.64A.246.246 0 0 1 9.5 3.5c0-.098.055-.196.166-.236l1.807-.64Z"])
 docs.stripe.com##article div:has(>button:has-text(Ask about this page))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM))
 docs.stripe.com##article button:has(>span > span:has-text(Copy for LLM)) + span[role="separator"]
