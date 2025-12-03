@@ -33,15 +33,15 @@ youtube.com##tp-yt-paper-listbox ytd-menu-service-item-renderer:has(yt-icon:has(
 ! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
 
-! "OverflowAI" - StackOverflow
+! "OverflowAI" or "AI Assist" - StackOverflow
 stackoverflow.ai
 stackoverflow.com##header ol > li:has(a[href^="https://stackoverflow.co/teams/ai"])
 ! All StackExchange sites...
-stackoverflow.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
-serverfault.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
-superuser.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
-askubuntu.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
-stackexchange.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.ai"])
+stackoverflow.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
+serverfault.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
+superuser.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
+askubuntu.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
+stackexchange.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
 
 ! DuckDuckGo's "chat"
 duck.ai
