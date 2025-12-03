@@ -42,6 +42,12 @@ serverfault.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[
 superuser.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
 askubuntu.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
 stackexchange.com##nav > ol.nav-links > li > ol.nav-links > li:has(a#nav-askstack[href="https://stackoverflow.com/ai-assist"])
+! Annoying Google login box
+stackoverflow.com##div#credential_picker_container:has(iframe)
+serverfault.com##div#credential_picker_container:has(iframe)
+superuser.com##div#credential_picker_container:has(iframe)
+askubuntu.com##div#credential_picker_container:has(iframe)
+stackexchange.com##div#credential_picker_container:has(iframe)
 
 ! DuckDuckGo's "chat"
 duck.ai
