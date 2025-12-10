@@ -51,7 +51,7 @@ stackexchange.com##div#credential_picker_container:has(iframe)
 ! AI Assist
 stackoverflow.com##div.js-inbox-notifications ul > li:has(a[data-inbox-type="AIAssistAnnouncement"])
 stackoverflow.com##div#hide-this-if-you-want
-stackoverflow.com##div:has(>div:has(>div#ask-stack-initial-question))
+stackoverflow.com##div:has(>div:has(>textarea#ask-stack-initial-question))
 
 ! DuckDuckGo's "chat"
 duck.ai
