@@ -15,6 +15,10 @@ console.cloud.google.com##div.pcc-search-cluster-title:has(cfc-icon[icon="spark"
 developers.google.com##div.devsite-concierge-panel div.devsite-concierge-panel-key-takeaways-section
 developers.google.com##div.devsite-concierge-container button.devsite-concierge-ai-panel--menu-item
 developers.google.com##devsite-key-takeaways-panel
+! Google Developer Docs - "Code Tutor"
+developers.google.com##devsite-code-tutorial:has(h3[data-title="Generated with AI"])
+developers.google.com##devsite-code div.devsite-code-buttons-container button[data-title="Explain this code"]
+developers.google.com##devsite-code div.devsite-code-buttons-container button[data-title="Code Tutor"]
 
 ! AI Answers on Google Ads
 support.google.com##div#ai-answers-container
