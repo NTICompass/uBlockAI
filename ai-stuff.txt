@@ -36,6 +36,8 @@ youtube.com##tp-yt-paper-listbox ytd-menu-service-item-renderer:has(yt-icon:has(
 
 ! "AI Description" - eBay listings
 www.ebay.com##div.se-rte__ai-description:has(button.ai-icon)
+! eBay.ai on messages
+www.ebay.com##div.ai-setting
 
 ! "OverflowAI" or "AI Assist" - StackOverflow
 stackoverflow.ai
