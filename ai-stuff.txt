@@ -72,6 +72,8 @@ github.com##div > button:has(svg.octicon-copilot)
 github.com##div.DialogOverflowWrapper ul > li:has(a[href="/settings/copilot"])
 ! "AI Code Creation" in menu
 github.com##div.HeaderMenu nav > ul > li > div.js-header-menu-item ul > li:has(ul > li > a[href="https://github.com/features/copilot"])
+! "Open in GitHub Copilot app"
+github.com##ul[data-component="ActionList"] > li[data-component="ActionList.Item"]:has(button span[class^="CopilotAppOpenAction-module_"])
 
 ! Yahoo News
 www.yahoo.com##div[class*="aisummary_"]:has(button[aria-label="Expand Key Takeaways"])
